@@ -1,4 +1,4 @@
-smtplib
-email_validator
-
 streamlit==1.36.0
+python-dotenv
+requests
+email_validator
